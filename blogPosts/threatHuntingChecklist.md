@@ -4,6 +4,7 @@ title: Threat Hunting Checklist
 categories: blue-team
 tags:
     - threat-hunting
+    - checklist
 ---
 
 This is a resource for threat hunting in the cyber domain
@@ -44,3 +45,6 @@ This is a resource for threat hunting in the cyber domain
 This checklist is taken heavily from Binary Defense Threat Hunters Checklist
 - https://binarydefense.nyc3.digitaloceanspaces.com/docs/ThreatHuntersCheckList_BinaryDefense.pdf
 
+
+
+[back](../index.md)
