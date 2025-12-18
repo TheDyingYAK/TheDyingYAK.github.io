@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Threat Hunting Checklist
 ---
 
 ## This is a resource for threat hunting in the cyber domain
