@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 ## This is a resource for threat hunting in the cyber domain
