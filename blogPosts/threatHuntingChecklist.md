@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Threat Hunting Checklist
+categories: blue-team
+tags:
+    - threat-hunting
 ---
 
-## This is a resource for threat hunting in the cyber domain
+This is a resource for threat hunting in the cyber domain
 
 
 ### Threat Hunting Checklist

@@ -1,5 +1,9 @@
 ---
 layout: default
+title: Usefull Links
+categories: general
+tags:
+    - links
 ---
 
 ## A list of websites that have helped me learn
