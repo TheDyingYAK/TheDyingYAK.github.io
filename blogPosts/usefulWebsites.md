@@ -13,19 +13,18 @@ These are in no particular order and I will try my best to ensure that I keep it
 1. https://maldevacademy.com/
 2. https://institute.sektor7.net/
 3. https://www.vergiliusproject.com/
-4. https://galeax.github.io/CVE2CAPEC/
-5. https://vx-underground.org/
-6. https://fuzzysecurity.com/tutorials.html
-7. https://dayzerosec.com/blog/2021/02/02/getting-started.html
-8. https://exploit.education/
-9. https://pwn.college/
-10. https://ropemporium.com/index.html
-11. https://github.com/guyinatuxedo/nightmare
-12. https://0xpat.github.io/Malware_development_part_1/
-13. https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list
-14. https://www.artresilia.com/iot-series-iv-debugging-with-gdb-ghidra-zero-day/
-15. https://www.zeropointsecurity.co.uk/
-16. https://mp.weixin.qq.com/s/ZMTjDMMdQoOczxzZ7OAGtA
+4. https://vx-underground.org/
+5. https://fuzzysecurity.com/tutorials.html
+6. https://dayzerosec.com/blog/2021/02/02/getting-started.html
+7. https://exploit.education/
+8. https://pwn.college/
+9.  https://ropemporium.com/index.html
+10. https://github.com/guyinatuxedo/nightmare
+11. https://0xpat.github.io/Malware_development_part_1/
+12. https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list
+13. https://www.artresilia.com/iot-series-iv-debugging-with-gdb-ghidra-zero-day/
+14. https://www.zeropointsecurity.co.uk/
+15. https://mp.weixin.qq.com/s/ZMTjDMMdQoOczxzZ7OAGtA
 
 
 ### DFIR
@@ -39,6 +38,19 @@ These are in no particular order and I will try my best to ensure that I keep it
 8. https://d3fend.mitre.org/
 9. https://sigconverter.io/
 10. https://uncoder.io/
+11. https://gchq.github.io/CyberChef/
+12. https://galeax.github.io/CVE2CAPEC/
 
+
+### Hardware Hacking
+1. https://cloud.google.com/blog/topics/threat-intelligence/embedded-hardwareha/
+2. https://ioninja.com/
+3. 
+
+### Reversing
+1. https://crackmes.one/
+2. https://c0x.shape-of-code.com/index.html
+3. https://github.com/NationalSecurityAgency/ghidra
+4. 
 
 [back](../index.md)

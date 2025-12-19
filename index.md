@@ -13,9 +13,13 @@ This is where I will eventually put stuff about me.
 [Useful websites](./blogPosts/usefulWebsites.md)
 
 
-### Links for Blue Team things
+### Blue Team Things
 ---
 [Threat hunting Checklist](./blogPosts/threatHuntingChecklist.md)
+
+
+### Red Team Things
+---
 
 
 
