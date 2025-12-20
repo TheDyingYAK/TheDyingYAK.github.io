@@ -5,6 +5,7 @@ categories: blue-team
 tags:
     - threat-hunting
     - checklist
+date: 2025-12-19
 ---
 
 This is a resource for threat hunting in the cyber domain

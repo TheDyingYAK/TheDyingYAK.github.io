@@ -10,7 +10,7 @@ tags:
   - evasion
   - yara
   - sandboxing
-date: 20251220
+date: 2025-12-20
 ---
 
 ## Introduction
