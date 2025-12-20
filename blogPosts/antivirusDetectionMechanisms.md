@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Antivirus Detection Mechanisms: A Deep Technical Exploration
+title: "Antivirus Detection Mechanisms: A Deep Technical Exploration"
 categories:
   - red-team
 tags:
@@ -190,3 +190,6 @@ From a red team perspective, understanding why detection fails is more valuable 
 Antivirus detection is no longer a single technology but a coordinated system of analytical perspectives. Each layer — signature, heuristic, behavioral, machine learning, and cloud intelligence — compensates for the blind spots of the others.
 
 For practitioners, the value lies not in treating antivirus as a black box, but in understanding the tradeoffs that shape detection decisions. This understanding enables better defensive design, more realistic adversary simulation, and clearer evaluation of security tooling in practice.
+
+
+[back](../index.md)
