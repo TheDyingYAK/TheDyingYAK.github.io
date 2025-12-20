@@ -1,11 +1,10 @@
 ---
-layout: default
----
-layout: default
+layout: post
 title: Usefull Links
 categories: general
 tags:
     - links
+date: 2025-12-18
 ---
 
 ## A list of websites that have helped me learn
