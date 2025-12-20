@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Antivirus Detection Mechanisms: A Deep Technical Exploration"
+title: "Antivirus Detection Mechanisms: A Conceptual Overview"
 categories:
   - red-team
 tags:
